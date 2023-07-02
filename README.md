@@ -1,4 +1,4 @@
-# My-First-Rep
+# My-First-Repo
 
 ## Git Commands
 
